@@ -1,15 +1,13 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Gang Xue
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+    url: xuegang19@pku.edu.cn
+    text: xuegang19@pku.edu.cn
+    
 ---
 
-# Wode **Ni**
+# Gang Xue
 
 <!--
 include contact information from the front matter
@@ -23,10 +21,10 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Chinese Academy of Sciences** `2014.8 -2018.7`
 
 ```
-Pittsburgh, PA
+Beijing
 ```
 
 - Ph.D. in Software Engineering
